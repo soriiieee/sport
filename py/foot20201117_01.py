@@ -43,6 +43,12 @@ def cut_season(_season, _league_id_team, _team_id, use_years=3):
   _team_id = tmp["team_id"].values.tolist()[:use_years]
   return _season,_league_id_team,_team_id
 
+
+def load_json(json_path):
+  with open(json_path, "r") as json_file:
+    json_data = json.load(json_file)
+  return json_data
+
 if __name__ == "__main__":
   #init remover--------------------
   OUTD='../out/png1'

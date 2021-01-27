@@ -1,0 +1,19 @@
+team_id,name,code,logo,country,is_national,founded,venue_name,venue_surface,venue_address,venue_city,venue_capacity
+291,Cerezo Osaka,,https://media.api-sports.io/football/teams/291.png,Japan,False,1957,Yanmar Stadium Nagai,grass,"1-1 Nagai-koen, Higashisumiyoshi-ku",Osaka,50000
+290,Kashima,,https://media.api-sports.io/football/teams/290.png,Japan,False,1991,Kashima Soccer Stadium,grass,"26-2 Ushiroyama, Jinkoji",Kashima,40728
+287,Urawa,,https://media.api-sports.io/football/teams/287.png,Japan,False,1950,Saitama Stadium 2002,grass,"500 Nakanoda, Midori-ku",Saitama,63700
+279,Consadole Sapporo,,https://media.api-sports.io/football/teams/279.png,Japan,False,1935,Sapporo Dome,grass,"1-3 Hitsujigaoka, Toyohira-ku",Sapporo,53845
+280,Jubilo Iwata,,https://media.api-sports.io/football/teams/280.png,Japan,False,1970,Yamaha Stadium,grass,2500 Shingai,Iwata,15165
+292,FC Tokyo,,https://media.api-sports.io/football/teams/292.png,Japan,False,1935,Ajinomoto Stadium,grass,"376-3 Nishi-machi, Chōfu-shi",Chōfu,48955
+296,Yokohama F. Marinos,,https://media.api-sports.io/football/teams/296.png,Japan,False,1972,Nissan Stadium,grass,"3302-5 Kozukue, Kohoku-ku",Yokohama,72327
+293,Gamba Osaka,,https://media.api-sports.io/football/teams/293.png,Japan,False,1980,Suita City Football Stadium,grass,"Senribanpakukōen, 3",Suita,40322
+283,Shimizu S-pulse,,https://media.api-sports.io/football/teams/283.png,Japan,False,1991,IAI Stadium Nihondaira,grass,"3880-1 Otani, Shimizu-muramatsu",Shizuoka,20339
+294,Kawasaki Frontale,,https://media.api-sports.io/football/teams/294.png,Japan,False,1955,Kawasaki Todoroki Stadium,grass,"1-1 Todoroki, Nakahara-ku",Kawasaki,27495
+285,V-varen Nagasaki,,https://media.api-sports.io/football/teams/285.png,Japan,False,1985,Transcosmos Stadium,grass,,Isahaya,20258
+295,Sagan Tosu,,https://media.api-sports.io/football/teams/295.png,Japan,False,1987,Ekimae Real Estate Stadium,grass,812 Kyo-machi,Tosu,24130
+286,Vegalta Sendai,,https://media.api-sports.io/football/teams/286.png,Japan,False,1988,Yurtec Stadium Sendai,grass,"78 Yanagi, Nanakita, Izumi-ku",Sendai,19694
+281,Kashiwa Reysol,,https://media.api-sports.io/football/teams/281.png,Japan,False,1940,SANKYO FRONTIER Kashiwa Stadium,grass,"1-2-50 Kashiwa, Chiba",Kashiwa,15900
+288,Nagoya Grampus,,https://media.api-sports.io/football/teams/288.png,Japan,False,1939,Toyota Stadium,grass,7-2 Sengoku-cho,Toyota,45000
+282,Sanfrecce Hiroshima,,https://media.api-sports.io/football/teams/282.png,Japan,False,1938,EDION Stadium,grass,"Asaminami-ku, Hiroshima 5-chome, Nishi Ootsuka",Hiroshima,50000
+289,Vissel Kobe,,https://media.api-sports.io/football/teams/289.png,Japan,False,1966,NOEVIR Stadium Kobe,grass,"1-2-2 Misaki-cho, Hyogo-ku",Kobe,30132
+284,Shonan Bellmare,,https://media.api-sports.io/football/teams/284.png,Japan,False,1968,Shonan BMW Stadium Hiratsuka,grass,1-1 Ohara,Hiratsuka,18500
